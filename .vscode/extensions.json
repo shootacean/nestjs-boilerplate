@@ -6,6 +6,8 @@
         "esbenp.prettier-vscode",
         // リンター
         "dbaeumer.vscode-eslint",
+        // REST Client
+        "humao.rest-client"
     ],
     // 非推奨
     "unwantedRecommendations": [],
